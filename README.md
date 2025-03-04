@@ -44,7 +44,7 @@
 
 ## 国内免费使用指南
 
-1. **选择镜像站**：从推荐列表中选择一个站点，如**一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))** 或**AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))** 。
+1. **选择镜像站**：从推荐列表中选择一个站点，如**麦克斯AI ([ai.bearvision.cn](https://ai.bearvision.cn/))** 
 
 2. **注册或使用**：无需注册，按照提示用微信扫码即可。
 
@@ -66,7 +66,7 @@
    - 部分站点提供免费使用额度，适合日常使用；一些高级功能可能需要付费，具体情况请参考站点说明。
 
 4. **哪些站点适合新手？**
-   - **麦克斯AI (ai.bearvision.cn)** ：非常适合新手。
+   - **麦克斯AI (ai.bearvision.cn)(https://ai.bearvision.cn/)** ：非常适合新手。
 
 ---
 
